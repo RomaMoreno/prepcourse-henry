@@ -1,2 +1,1 @@
-# prepcourse-henry
-modulo 2 prep course henry
+al fin me resultó el trabajo del módulo 2
